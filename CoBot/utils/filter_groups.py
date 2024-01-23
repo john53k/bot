@@ -1,0 +1,1 @@
+copy_text_group = 100
